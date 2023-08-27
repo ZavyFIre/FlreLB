@@ -1,5 +1,5 @@
 {
-  "name": "fnbrbot",
+  "name": "FlreLB",
   "version": "1.1.0",
   "description": "A powerful fortnite lobby bot written in Node.js and powered by the fnbr library",
   "main": "index.js",
